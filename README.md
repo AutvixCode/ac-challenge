@@ -7,3 +7,7 @@ pequeno desafio proposto pelo vinivix
 - adicionar um arquivo markdown chamado <seu_nome>.md explicando seus conhecimentos de git
 - mandar sua branch para o repositório remoto
 - abrir um pull request para a branch main
+
+
+### Resultado
+- Todos entregaram conforme previsto.
